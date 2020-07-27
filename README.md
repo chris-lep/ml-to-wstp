@@ -1,6 +1,6 @@
 # MathLink to WSTP converter
 
-A simple script to transform a MathLink C or C++ file to a WSTP one.
+A simple Python 3 script to transform a MathLink C or C++ file to a WSTP one.
 
 ## Usage
 
