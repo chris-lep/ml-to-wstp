@@ -2,6 +2,8 @@
 
 A simple Python 3 script to transform a MathLink C or C++ file to a WSTP one.
 
+[WSTP (Wolfram Symbolic Transfer Protocol) on the Wolfram website](https://www.wolfram.com/wstp/)
+
 ## Usage
 
     ./ml_to_wstp.py source_file target_file
